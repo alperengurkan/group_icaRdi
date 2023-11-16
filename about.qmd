@@ -5,4 +5,4 @@ sidebar: false
 
 # EMU430
 
-We are a group for our 430 Data Analytics Lecture. At this lecture we are learning how to use GitHub, Quarto and RStudio
+We are a group for our 430 Data Analytics Lecture. At this lecture we are learning how to use GitHub, Quarto and RStudio.
