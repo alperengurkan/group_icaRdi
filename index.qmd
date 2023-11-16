@@ -3,10 +3,10 @@ title: "Welcome to My Analytics Lab"
 sidebar: false 
 ---
 
-Hello! My name is xxx xxxx.
-
-This is my personal webpage.
+Hello! Our group name is icaRdi. This is our group webpage.
 
 Please stay tuned to follow my works on data analytics, blog posts, and more.
 
-This is our template.
+ ![](https://i.sozcucdn.com/wp-content/uploads/2023/07/10/icardi-galatasaray-transferi-bitti.jpeg?w=776&h=436&mode=crop)
+
+
